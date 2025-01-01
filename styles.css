@@ -794,6 +794,9 @@ footer a{
     height: 45px;
     width: 45px;
   }
+  .FAQ .panel{
+    font-size: 20px;
+  }
 }
 
 @media (max-width: 1370px){
@@ -1137,6 +1140,16 @@ footer a{
     height: 35px;
     width: 35px;
   }
+  .CTA-container p{
+    font-size: 18px;
+    width: 300px;
+}
+h1{
+  font-size: 80px;
+}
+.FAQ img {
+    margin-right: 40px;
+}
 }
 @media (max-width: 405px){
   .services h1{
@@ -1151,5 +1164,8 @@ footer a{
   }
   .service-card{
     padding-top: 10px;
+  }
+  .looking-4-more h1{
+    font-size: 70px;
   }
 }
