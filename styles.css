@@ -1129,4 +1129,27 @@ footer a{
     font-size: 75px;
     line-height: 60px;
   }
+  .service-card{
+    padding-right: 10px;
+    height: 180px;
+  }
+  .circle-service{
+    height: 35px;
+    width: 35px;
+  }
+}
+@media (max-width: 405px){
+  .services h1{
+    font-size: 60px;
+    line-height: 45px;
+  }
+  .service-circle-div{
+    display: none;
+  }
+  .service-card h4{
+    font-size: 20px;
+  }
+  .service-card{
+    padding-top: 10px;
+  }
 }
